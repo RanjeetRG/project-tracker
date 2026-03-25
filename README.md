@@ -2,6 +2,8 @@
 
 Project management UI for a frontend challenge. Three views of the same data — kanban board, sortable list, and a Gantt timeline — with custom drag-and-drop, virtual scrolling, simulated live presence, and URL-synced filters. No UI libraries, no DnD libraries, no virtualization libraries.
 
+**Live demo:** [project-tracker-five-tau.vercel.app](https://project-tracker-five-tau.vercel.app)
+
 Stack: React + TypeScript + Tailwind CSS + Zustand
 
 ---
